@@ -1,0 +1,7 @@
+C:\Users\timur\Downloads\дз5\дз5\матрицы\bin\Debug\матрицы.exe.config
+C:\Users\timur\Downloads\дз5\дз5\матрицы\bin\Debug\матрицы.exe
+C:\Users\timur\Downloads\дз5\дз5\матрицы\bin\Debug\матрицы.pdb
+C:\Users\timur\Downloads\дз5\дз5\матрицы\obj\Debug\матрицы.csprojAssemblyReference.cache
+C:\Users\timur\Downloads\дз5\дз5\матрицы\obj\Debug\матрицы.csproj.CoreCompileInputs.cache
+C:\Users\timur\Downloads\дз5\дз5\матрицы\obj\Debug\матрицы.exe
+C:\Users\timur\Downloads\дз5\дз5\матрицы\obj\Debug\матрицы.pdb

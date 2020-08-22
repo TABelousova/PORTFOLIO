@@ -1,0 +1,90 @@
+D:\unity\С#\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+D:\unity\С#\дз6\Diary\Diary\bin\Debug\Diary.exe
+D:\unity\С#\дз6\Diary\Diary\bin\Debug\Diary.pdb
+D:\unity\С#\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+D:\unity\С#\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+D:\unity\С#\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+D:\unity\С#\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+D:\unity\С#\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+D:\unity\С#\дз6\Diary\Diary\obj\Debug\Diary.exe
+D:\unity\С#\дз6\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\timur\Downloads\дз6\дз6\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\User\Downloads\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\timur\Downloads\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\prima\OneDrive\Desktop\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\timur\Downloads\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\prima\OneDrive\Desktop\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\timur\Downloads\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\User\Downloads\дз6 (3)\дз6 (3)\дз6 (2)\дз6 (1)\дз6\дз6\дз6\Diary\Diary\obj\Debug\Diary.pdb

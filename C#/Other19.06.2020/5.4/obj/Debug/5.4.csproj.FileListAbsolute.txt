@@ -1,0 +1,7 @@
+C:\Users\timur\Downloads\дз5\дз5\5.4\bin\Debug\5.4.exe.config
+C:\Users\timur\Downloads\дз5\дз5\5.4\bin\Debug\5.4.exe
+C:\Users\timur\Downloads\дз5\дз5\5.4\bin\Debug\5.4.pdb
+C:\Users\timur\Downloads\дз5\дз5\5.4\obj\Debug\5.4.csprojAssemblyReference.cache
+C:\Users\timur\Downloads\дз5\дз5\5.4\obj\Debug\5.4.csproj.CoreCompileInputs.cache
+C:\Users\timur\Downloads\дз5\дз5\5.4\obj\Debug\5.4.exe
+C:\Users\timur\Downloads\дз5\дз5\5.4\obj\Debug\5.4.pdb
